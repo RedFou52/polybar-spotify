@@ -16,9 +16,8 @@ type = custom/script
 interval = 1
 format-prefix = %{F#00FF00} %{F-}
 format = <label>
-exec = python /home/eidorian/.config/polybar/scripts/spotify_status.py -f '{play_pause} {song} - {artist} - {album}'
+exec = python path/to/script -f '{play_pause} {song} - {artist} - {album}'
 format-underline = #1db954
-click-left = python /home/eidorian/.config/polybar/scripts/spotify_status.py -f '
 ```
 
 #### Custom arguments
