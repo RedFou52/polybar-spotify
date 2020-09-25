@@ -5,8 +5,9 @@ This is a module that shows the current song playing and its primary artist on S
 ### Dependencies
 - Python (2.x or 3.x)
 - Python `dbus` module
+- Nerd-Fonts
 
-[![sample screenshot](https://i.imgur.com/kEluTSq.png)](https://i.imgur.com/kEluTSq.png)
+![Screen](poly_spoty.png)
 
 ### Settings
 ``` ini
