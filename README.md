@@ -14,7 +14,11 @@ This is a module that shows the current song playing and its primary artist on S
 - Python `dbus` module
 - Nerd-Fonts
 
-![Screen](poly_spoty.png)
+### Demo
+![Screen](/Assets/spotify.gif)
+
+
+
 
 ### Settings
 ``` ini
