@@ -18,6 +18,7 @@ format-prefix = %{F#00FF00} %{F-}
 format = <label>
 exec = python path/to/script -f '{play_pause} {song} - {artist} - {album}'
 format-underline = #1db954
+click-left = exec /path/to/spotify_action.sh
 ```
 
 #### Custom arguments
@@ -86,7 +87,4 @@ exec = python /path/to/spotify/script -q
 
 - Add spotify logo with color
 - Change Play and Pause button with NerdFonts
-
-## TO-DO
-
-- Pause / Play musique with `click-left`
+- Click Play / CLick Pause 
