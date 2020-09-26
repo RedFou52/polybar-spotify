@@ -4,6 +4,9 @@
 - Change Play and Pause button with NerdFonts
 - Click Play / CLick Pause
 
+# To-Do
+- Next / Previous music button
+- If spotify not running, display spotify button and start it by click
 
 # polybar-spotify
 
